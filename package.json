@@ -24,6 +24,6 @@
   "homepage": "https://github.com/VandeurenGlenn/custom-divider#readme",
   "flat": true,
   "dependencies": {
-    "backed": "^0.10.0-beta.3"
+    "backed": "^0.13.0"
   }
 }
